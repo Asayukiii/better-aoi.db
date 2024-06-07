@@ -1,0 +1,5 @@
+src
+config.json
+/dist/__tests__/
+docs
+*.hsh
