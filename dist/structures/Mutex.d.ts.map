@@ -1,0 +1,1 @@
+{"version":3,"file":"Mutex.d.ts","sourceRoot":"","sources":["../../src/structures/Mutex.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,UAAU,EAAE,MAAM,6BAA6B,CAAC;AAGzD,qBAAa,KAAK;IACP,OAAO,UAAQ;IACf,MAAM,EAAE,UAAU,EAAE,CAAK;IAEzB,IAAI,IAAI,OAAO,CAAC,IAAI,CAAC;IAWrB,MAAM,IAAI,IAAI;CAWxB"}
